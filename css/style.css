@@ -1,4 +1,27 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Yoochan
+* Created on: Mar 2024
 * This file contains the CSS for index.html
 */
+body {
+  background-color: white;
+
+
+}
+
+
+p {
+  position: inherit;
+  font-size: 2rem;
+  color: black;
+}
+
+
+.text-box {
+  position: relative;
+  left: 20px;
+}
+.right-image {
+  position: relative;
+  float: right;
+  right: 50px;
+}
