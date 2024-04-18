@@ -1,13 +1,10 @@
 /* Created by: Yoochan
-* Created on: Mar 2024
+* Created on: Mar 2024 (edited on: Apr 18, 2024)
 * This file contains the CSS for index.html
 */
 body {
   background-color: white;
-
-
 }
-
 
 p {
   position: inherit;
@@ -15,11 +12,11 @@ p {
   color: black;
 }
 
-
 .text-box {
   position: relative;
   left: 20px;
 }
+
 .right-image {
   position: relative;
   float: right;
