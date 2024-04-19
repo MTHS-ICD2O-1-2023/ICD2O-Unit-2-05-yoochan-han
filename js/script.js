@@ -12,5 +12,5 @@ function CalculatePay() {
   const taxes = (workTime * rate) * taxRate
   // display
   document.getElementById("UrPay").innerHTML = 'Your pay will be: $' + pay.toFixed(2)
-  document.getElementById("Tax").innerHTML = 'Govenment will take: $' + taxes.toFixed(2)
+  document.getElementById("Tax").innerHTML = 'Government will take: $' + taxes.toFixed(2)
 }
