@@ -3,7 +3,7 @@
 // Created by: yoochan 
 // Created on: Mar, 2024 (edited on: Apr 18, 2024)
 // This file contains the JS functions for index.html
-function CaculatePay() {
+function CalculatePay() {
   const workTime = parseFloat(document.getElementById("get_workTime").value)
   const rate = parseFloat(document.getElementById("get_salary").value)
   const taxRate = parseFloat(0.18)
